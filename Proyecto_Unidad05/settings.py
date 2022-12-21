@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     'user',
     'rest_framework.authtoken',
+    'pagos',
+    'django_filters',
 ]
 
 REST_FRAMEWORK = {
